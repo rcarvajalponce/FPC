@@ -143,12 +143,13 @@
           <div class="row row-narrow-66 row-40">
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay=".1s">
               <div class="post-classic">
-                <div class="post-classic__media"><a href="single-event.html"><img src="images/thumbnail-1-530x370.jpg" alt="" width="530" height="370"/></a></div>
-                <div class="post-classic__caption"><span class="post-info">Rise Church, January 23, 2020 </span>
-                  <h3 class="post-title"><a href="single-event.html">The Struggle with Fellowship in Student Ministry</a></h3><a class="btn btn-icon btn-icon-right btn-transparent btn-svg" href="single-event.html"><span class="svg-icon">
+                <div class="post-classic__media"><a href="lecturas/ART00001-20200930.php"><img src="images/thumbnail-1-530x370.jpg" alt="" width="530" height="370"/></a></div>
+                <div class="post-classic__caption"><span class="post-info">Familias para Cristo, Miércoles 30 de Setiembre, 2020 </span>
+                  <h3 class="post-title"><a href="lecturas/ART00001-20200930.php">Reflexiones sobre la Condición del Cristiano</a></h3>
+                  <a class="btn btn-icon btn-icon-right btn-transparent btn-svg" href="lecturas/ART00001-20200930.php"><span class="svg-icon">
                       <svg xmlns="http://www.w3.org/2000/svg" width="18" height="10" viewbox="0 0 18 10">
                         <path d="M13 10V6H0V4H13V0L18 5L13 10Z" fill=""></path>
-                      </svg></span><span>Read More</span></a>
+                      </svg></span><span>Leer Más</span></a>
                 </div>
               </div>
             </div>
