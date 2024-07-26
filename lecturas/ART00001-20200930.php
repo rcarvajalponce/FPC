@@ -278,47 +278,6 @@ lugar de honra. 2 Pedro 1:3</span><span style="font-family: &quot;Times New Roma
           </div>
         </div>
       </section>
-      <section class="section section-lg bg-default">
-        <div class="container">
-          <div class="pre-title text-center">Nearest & Upcoming</div>
-          <h2 class="text-center">Upcoming Events</h2>
-          <div class="row row-narrow-50 row-30 row-xl">
-            <div class="col-lg-4">
-              <div class="post-classic sm">
-                <div class="post-classic__media"><a href="#"><img src="../images/event-4-390x273.jpg" alt="" width="390" height="273"/></a></div>
-                <div class="post-classic__caption"><span class="post-info">Rise Church,  January 23, 2020 </span>
-                  <h3 class="post-title"><a href="#">Why Do Sermons Matter? Live Discussion</a></h3><a class="btn btn-icon btn-icon-right btn-transparent btn-svg" href="#"><span class="svg-icon">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="10" viewbox="0 0 18 10">
-                        <path d="M13 10V6H0V4H13V0L18 5L13 10Z" fill=""></path>
-                      </svg></span><span>Read More</span></a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4">
-              <div class="post-classic sm">
-                <div class="post-classic__media"><a href="#"><img src="../images/event-5-390x273.jpg" alt="" width="390" height="273"/></a></div>
-                <div class="post-classic__caption"><span class="post-info">Rise Church,  January 23, 2020 </span>
-                  <h3 class="post-title"><a href="#">Why Disappointment With Your Pastor Could Be a Good Thing</a></h3><a class="btn btn-icon btn-icon-right btn-transparent btn-svg" href="#"><span class="svg-icon">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="10" viewbox="0 0 18 10">
-                        <path d="M13 10V6H0V4H13V0L18 5L13 10Z" fill=""></path>
-                      </svg></span><span>Read More</span></a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4">
-              <div class="post-classic sm">
-                <div class="post-classic__media"><a href="#"><img src="../images/event-6-390x273.jpg" alt="" width="390" height="273"/></a></div>
-                <div class="post-classic__caption"><span class="post-info">Rise Church,  January 23, 2020 </span>
-                  <h3 class="post-title"><a href="#">Everyday Evangelism: The Importance of Faithful Laymen</a></h3><a class="btn btn-icon btn-icon-right btn-transparent btn-svg" href="#"><span class="svg-icon">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="10" viewbox="0 0 18 10">
-                        <path d="M13 10V6H0V4H13V0L18 5L13 10Z" fill=""></path>
-                      </svg></span><span>Read More</span></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
       <footer class="section footer-classic">
         <div class="footer-body">
           <div class="container">
