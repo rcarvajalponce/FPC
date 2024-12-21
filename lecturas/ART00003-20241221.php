@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
   <head>
-    <title>Single Event</title>
+    <title>Lecturas y Reflexiones</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:400,500%7CIbarra+Real+Nova:400,600,600i,700">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/fonts.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="../images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="../text/css" href="//fonts.googleapis.com/css?family=Roboto:400,500%7CIbarra+Real+Nova:400,600,600i,700">
+    <link rel="stylesheet" href="../css/bootstrap.css">
+    <link rel="stylesheet" href="../css/fonts.css">
+    <link rel="stylesheet" href="../css/style.css">
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
   </head>
   <body>
@@ -23,7 +23,7 @@
       </div>
     </div>
     <div class="page">
-    <header class="section page-header">
+      <header class="section page-header">
         <!--RD Navbar-->
         <div class="rd-navbar-wrap">
           <nav class="rd-navbar rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
@@ -65,41 +65,41 @@
                 <div class="rd-navbar-main-element">
                   <div class="rd-navbar-nav-wrap">
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Inicio</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="../index.php">Inicio</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="about-us.php">¿Quiénes somos?</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="../about-us.php">¿Quiénes somos?</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="beliefs.php">Lo que creemos</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="../beliefs.php">Lo que creemos</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="shepherds.php">Pastores</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="../shepherds.php">Pastores</a>
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="#">Áreas</a>
                       <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="discipulado.php">Discipulado</a>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="../discipulado.php">Discipulado</a>
                           </li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="niños.php">Niños</a>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="../niños.php">Niños</a>
                           </li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="jovenes.php">Jóvenes de Luz</a>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="../jovenes.php">Jóvenes de Luz</a>
                           </li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="mujeres.php">Mujeres con Propósito</a>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="../mujeres.php">Mujeres con Propósito</a>
                           </li>
-                          <li class="rd-dropdown-item active"><a class="rd-dropdown-link" href="parejas.php">Parejas</a>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="../parejas.php">Parejas</a>
                           </li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="servidores.php">Servidores</a>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="../servidores.php">Servidores</a>
                           </li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="alabanza.php">Alabanza y Adoración</a>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="../alabanza.php">Alabanza y Adoración</a>
                           </li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="events.php">Eventos</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="../events.php">Eventos</a>
                         <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-event.html">Single Event</a>
+                          <li class="rd-dropdown-item active"><a class="rd-dropdown-link" href="../single-event.html">Single Event</a>
                           </li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.php">Contactos</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="../contacts.php">Contactos</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="donate.php">Donar</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="../donate.php">Donar</a>
                       </li>
                     </ul>
                   </div>
@@ -110,13 +110,13 @@
         </div>
       </header>
       <!-- Breadcrumbs-->
-      <section class="breadcrumbs-custom bg-image" style="background-image: url(images/breadcrumbs-bg-2.jpg)" data-preset='{"title":"Breadcrumbs","category":"header","reload":false,"id":"breadcrumbs"}'>
+      <section class="breadcrumbs-custom bg-image" style="background-image: url(../images/breadcrumbs-bg-2.jpg)" data-preset='{"title":"Breadcrumbs","category":"header","reload":false,"id":"breadcrumbs"}'>
         <div class="container">
-          <div class="h1 breadcrumbs-custom-title"><br>Área de Parejas <br class="d-none d-xl-block"></div>
-          <p class="breadcrumbs-custom-caption"></p>
+          <div class="h1 breadcrumbs-custom-title">Horario de<br class="d-none d-xl-block">  Servicios</div>
+          <p class="breadcrumbs-custom-caption">Acompáñanos en nuestras reuniones generales todos los domingos 10am (Hora de Costa Rica)</p>
           <ul class="breadcrumbs-custom-path">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="events.html">Events</a></li>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../events.html">Events</a></li>
             <li class="active">Single Event</li>
           </ul>
         </div>
@@ -126,39 +126,18 @@
           <div class="row justify-content-center">
             <div class="col-xl-8 col-lg-10">
               <div class="pre-title wow fadeInLeft" data-wow-delay=".1s">Descripción General</div>
-              <h2 class="wow fadeInRight" data-wow-delay=".2s">“Y si alguno prevaleciere contra uno, dos le resistirán;<br>y cordón de tres dobleces no se rompe pronto.”<br> Eclesiastés 4:12</h2>
-              <p class="text-sm wow fadeInUp" data-wow-delay=".3s">En febrero del 2019 el Señor pone en nuestros corazones la necesidad de trabajar con las parejas de la iglesia, tanto solteras, como en unión libre y casadas, con el deseo de apoyarlas y ayudarlas a mejorar su relación y crecer juntos en el amor de Cristo.<br><br>
-Se inicia con reuniones mensuales desarrollando el Desafío del Amor, que consiste en 40 retos de amor hacia la pareja.  Estos retos son cosas sencillas pero que demuestran el amor apoyada en versículos de la Palabra de Dios que refuerzan la identidad de Dios en cada pareja.  Este año estamos enfocados en el estudio de finanzas para ayudar a las familias a tener un mejor control de sus ingresos y salir adelante.<br><br>
-Nuestra iglesia se llama Comunidad Cristiana Familias para Cristo y es nuestro pensamiento que la familia está en el corazón de Dios; matrimonios fuertes, familias fuertes, iglesia fuerte y una comunidad fuerte.<br><br>
-Contamos con un equipo de cuatro parejas más que nos ayudan a desarrollar, motivar, coordinar e inspirar lo que Dios pone en nuestros corazones para las parejas.<br><br>
-Sabemos que existimos de parte de Dios, para llevar a las familias al conocimiento de Cristo.</p>              
-          </div>
-        </div>
-      </section>
-      <!-- <section class="section-lg section bg-default">
-        <div class="container">
-          <div class="row row-narrow-50 row-xl-100" data-lightgallery="group">
-            <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".1s"><a class="gallery-thumbnail" href="images/ministries-1-1200x800-original.jpg" data-lightgallery="item"><img src="images/ministries-1-390x495.jpg" alt="" width="390" height="495"/>
-                <div class="float-title">Youth ministry</div></a>
-            </div>
-            <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".2s"><a class="gallery-thumbnail" href="images/ministries-2-1200x800-original.jpg" data-lightgallery="item"><img src="images/ministries-2-390x495.jpg" alt="" width="390" height="495"/>
-                <div class="float-title">Men’s ministry</div></a>
-            </div>
-            <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s"><a class="gallery-thumbnail" href="images/ministries-3-1200x800-original.jpg" data-lightgallery="item"><img src="images/ministries-3-390x495.jpg" alt="" width="390" height="495"/>
-                <div class="float-title">Transformation</div></a>
-            </div>
-            <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".4s"><a class="gallery-thumbnail" href="images/ministries-4-1200x800-original.jpg" data-lightgallery="item"><img src="images/ministries-4-390x495.jpg" alt="" width="390" height="495"/>
-                <div class="float-title">Women's ministry</div></a>
-            </div>
-            <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".5s"><a class="gallery-thumbnail" href="images/ministries-5-1200x800-original.jpg" data-lightgallery="item"><img src="images/ministries-5-390x495.jpg" alt="" width="390" height="495"/>
-                <div class="float-title">Children</div></a>
-            </div>
-            <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".6s"><a class="gallery-thumbnail" href="images/ministries-6-1200x800-original.jpg" data-lightgallery="item"><img src="images/ministries-6-390x495.jpg" alt="" width="390" height="495"/>
-                <div class="float-title">Bible study</div></a>
+              <h2 class="wow fadeInRight" data-wow-delay=".2s">Horario de Servicios</h2>
+              <p class="text-sm wow fadeInUp" data-wow-delay=".3s">
+              <p class="MsoNormal" style="line-height: 115%;"><span style="font-family: &quot;Arial&quot;,sans-serif; mso-ansi-language: ES-CR;">Domingos: Reuniónes Generales a las 10:00am en el templo <br> </span></i></span></p>                
+              <div class="single-event-date offset-xl-50"><a class="location" href="#"><span class="icon mdi-map-marker mdi"></span>Granadilla Norte, San José, Costa Rica</a></div>
+              <a class="shadow btn btn-icon btn-icon-right btn-secondary btn-svg offset-xl-55 wow fadeInUp" href="../about-us.php" data-wow-delay=".3s"><span class="svg-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="10" viewbox="0 0 18 10" fill="#fff">
+                    <path d="M13 10V6H0V4H13V0L18 5L13 10Z" fill=""></path>
+                  </svg></span><span>Registrate aqui</span></a>
             </div>
           </div>
         </div>
-      </section> -->
+      </section>      
       <footer class="section footer-classic">
         <div class="footer-body">
           <div class="container">
@@ -168,16 +147,16 @@ Sabemos que existimos de parte de Dios, para llevar a las familias al conocimien
                   <div class="col-sm-4 col-6 wow fadeInUp" data-wow-delay=".1s">
                     <div class="footer-title">Quiénes somos</div>
                     <ul class="nav-list">
-                      <li><a href="about-us.php">¿Quiénes somos?</a></li>
-                      <li><a href="ministries.php">Áreas</a></li>
-                      <li><a href="events.php">Eventos</a></li>
-                      <li><a href="contacts.php">Contáctenos</a></li>
+                      <li><a href="../about-us.php">¿Quiénes somos?</a></li>
+                      <li><a href="../ministries.php">Áreas</a></li>
+                      <li><a href="../events.php">Eventos</a></li>
+                      <li><a href="../contacts.php">Contáctenos</a></li>
                     </ul>
                   </div>
                   <div class="col-sm-4 col-6 wow fadeInUp" data-wow-delay=".2s">
                     <div class="footer-title">Información</div>
                     <ul class="nav-list">
-                      <li><a href="shepherds.php">Pastores</a></li>
+                      <li><a href="../shepherds.php">Pastores</a></li>
                       <li><a href="#">Blog</a></li>
                       <li><a href="#">Galeria</a></li>
                     </ul>
@@ -187,7 +166,7 @@ Sabemos que existimos de parte de Dios, para llevar a las familias al conocimien
                     <ul class="nav-list">
                       <li><a href="#">Donar Ahora</a></li>
                       <li><a href="#">FAQ</a></li>
-                      <li><a href="privacy-policy.html">Política de Privacidad</a></li>
+                      <li><a href="../privacy-policy.html">Política de Privacidad</a></li>
                     </ul>
                   </div>
                 </div>
@@ -222,7 +201,7 @@ Sabemos que existimos de parte de Dios, para llevar a las familias al conocimien
       </footer>
     </div>
     <div class="snackbars" id="form-output-global"></div>
-    <script src="js/core.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="../js/core.min.js"></script>
+    <script src="../js/script.js"></script>
   </body>
 </html>

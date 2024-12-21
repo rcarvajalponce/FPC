@@ -167,13 +167,13 @@
             </div>
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay=".3s">
               <div class="post-classic">
-                <div class="post-classic__media"><a href="single-event.html"><img src="images/thumbnail-3-530x370.jpg" alt="" width="530" height="370"/></a></div>
-                <div class="post-classic__caption"><span class="post-info">Rise Church,  January 23, 2020 </span>
-                  <h3 class="post-title"><a href="single-event.html">Everyday Evangelism: The Importance of Faithful Laymen
-</a></h3><a class="btn btn-icon btn-icon-right btn-transparent btn-svg" href="single-event.html"><span class="svg-icon">
+                <div class="post-classic__media"><a href="lecturas/ART00003-20241221.php"><img src="images/thumbnail-3-530x370.jpg" alt="" width="530" height="370"/></a></div>
+                <div class="post-classic__caption"><span class="post-info">Familias para Cristo,  Diciembre 21, 2024 </span>
+                  <h3 class="post-title"><a href="lecturas/ART00003-20241221.php">Horario de Servicios
+</a></h3><a class="btn btn-icon btn-icon-right btn-transparent btn-svg" href="lecturas/ART00003-20241221.php"><span class="svg-icon">
                       <svg xmlns="http://www.w3.org/2000/svg" width="18" height="10" viewbox="0 0 18 10">
                         <path d="M13 10V6H0V4H13V0L18 5L13 10Z" fill=""></path>
-                      </svg></span><span>Read More</span></a>
+                      </svg></span><span>Leer más</span></a>
                 </div>
               </div>
             </div>
@@ -223,7 +223,7 @@
                       <div class="row justify-content-center">
                         <div class="col-xl-10 p-xl-0">
                           <div class="row justify-content-center row-20 align-items-center flex-column flex-md-row">
-                            <div class="col-lg-3 p-xl-0"><img src="images/home-3-280x349.jpg" alt="" width="280" height="349"/>
+                            <div class="col-lg-3 p-xl-0"><img src="images/Pastores_280x349.jpg" alt="" width="280"/>
                             </div>
                             <div class="col-lg-9 inset-left-110">
                               <div class="h3">“I've never been part of a church that's just getting started, so this is all new territory for me.<span class="text-italic accent-block">It's incredible to see God at work &</span>bringing people together.”</div>
