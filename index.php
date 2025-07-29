@@ -155,7 +155,7 @@
             </div>
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay=".2s">
               <div class="post-classic">
-                <div class="post-classic__media"><a href="lecturas/ART00002-20200724.php"><img src="images/thumbnail-2-530x370.jpg" alt="" width="530" height="370"/></a></div>
+                <div class="post-classic__media"><a href="lecturas/ART00002-20200724.php"><img src="images/MujeresProposito.jpeg" alt="" width="530" height="370"/></a></div>
                 <div class="post-classic__caption"><span class="post-info">Familias para Cristo,  24 de julio, 2020 </span>
                   <h3 class="post-title"><a href="lecturas/ART00002-20200724.php">Mujeres con Propósito
 </a></h3><a class="btn btn-icon btn-icon-right btn-transparent btn-svg" href="lecturas/ART00002-20200724.php"><span class="svg-icon">
